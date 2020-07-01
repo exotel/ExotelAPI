@@ -3,7 +3,7 @@
 The documentation for the Exotel API can be found link:https://developer.exotel.com/api/#intro
 
 # SUPPORTED PHP VERSIONS
-This library supports the following Python implementations:
+This library supports the following PHP implementations:
     
     PHP 7.2
     PHP 7.3
